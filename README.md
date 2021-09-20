@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 
 ## Copyright
 Git training.
+
+## How to contribute
+Please fork this repo and then pull requests for any review
